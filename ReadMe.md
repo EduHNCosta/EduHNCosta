@@ -1,5 +1,26 @@
 # 💫 About Me:
-I'm a developer that loves old school technology, y2k aesthetics, and much more. <br>I love creating mechanics, stories, characters.<br>I enjoy creating little projects that may or may not see the light of day.
+# Hi there! 👋
+
+I'm **Eduardo**, a Computer Science student passionate about software development, automation, and technology.
+
+I enjoy building practical solutions, exploring new tools, and continuously improving my skills. My main interests include backend development, system administration, Linux, artificial intelligence, and self-hosted technologies. I also enjoy learning how hardware and software work together to create efficient and reliable systems.
+
+## 🚀 Currently
+
+* 🎓 Studying Computer Science
+* 💻 Improving my software development skills
+* 🤖 Exploring AI-assisted development and local LLMs
+* 🐧 Learning more about Linux, networking, and infrastructure
+* ⚙️ Building personal projects to expand my experience
+
+## 📚 Philosophy
+
+> *"The best way to learn is by building."*
+
+I believe every project is an opportunity to learn something new. My GitHub is a place where I document my progress, experiment with ideas, and share projects that help me grow as a developer.
+
+Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.
+
 
 
 # 💻 Tech Stack:
