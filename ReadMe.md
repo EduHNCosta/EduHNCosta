@@ -7,6 +7,7 @@ Hardware Explorer
 Retro Computing Enthusiast
 Creative Technology Builder
 Welcome to my GitHub laboratory.
+  ```
 
 I'm a Computer Science student passionate about building software, exploring technology, and understanding how computers work from the inside out.
 
@@ -54,7 +55,7 @@ Linux and self-hosted projects
 Hardware experiments
 📫 Contact
 
-🌊 Exploring technology from the past, building for the future. </p>```
+🌊 Exploring technology from the past, building for the future. </p>
 
 
 
