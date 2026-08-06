@@ -54,7 +54,7 @@ Linux and self-hosted projects
 Hardware experiments
 📫 Contact
 
-<p> 🌊 Exploring technology from the past, building for the future.</p>
+<p align="center"> 🌊 Exploring technology from the past, building for the future. </p> ```
 
 ```
 
