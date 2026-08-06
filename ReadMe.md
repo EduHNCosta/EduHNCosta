@@ -1,11 +1,11 @@
  🌊 Hi, I'm Eduardo!
 
-text
-Computer Science Student
-Software Developer
-Hardware Explorer
-Retro Computing Enthusiast
-Creative Technology Builder
+
+Computer Science Student |
+Software Developer |
+Hardware Explorer |
+Retro Computing Enthusiast |
+Creative Technology Builder |
 
 Welcome to my GitHub laboratory.
 
@@ -13,9 +13,13 @@ I'm a Computer Science student passionate about building software, exploring tec
 
 My interests go beyond programming. I enjoy creating personal projects, experimenting with AI, exploring Linux distributions, developing game-related projects, working with hardware, and bringing ideas from the digital world into physical creations.
 
+I believe every project is an opportunity to learn something new. My GitHub is a place where I document my progress, experiment with ideas, and share projects that help me grow as a developer.
+
+Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.
+
 Building is the best way to learn.
 
-🚀 About Me
+🚀 About Me:
 🎓 Computer Science student
 💻 Interested in software development and creative programming
 🧪 Building personal projects to improve my skills
@@ -52,29 +56,6 @@ Hardware experiments
 📫 Contact
 
 🌊 Exploring technology from the past, building for the future. </p>```
-
-# 💫 About Me:
-# Hi there! 👋
-
-I'm **Eduardo**, a Computer Science student passionate about software development, automation, and technology.
-
-I enjoy building practical solutions, exploring new tools, and continuously improving my skills. My main interests include backend development, system administration, Linux, artificial intelligence, and self-hosted technologies. I also enjoy learning how hardware and software work together to create efficient and reliable systems.
-
-## 🚀 Currently
-
-* 🎓 Studying Computer Science
-* 💻 Improving my software development skills
-* 🤖 Exploring AI-assisted development and local LLMs
-* 🐧 Learning more about Linux, networking, and infrastructure
-* ⚙️ Building personal projects to expand my experience
-
-## 📚 Philosophy
-
-> *"The best way to learn is by building."*
-
-I believe every project is an opportunity to learn something new. My GitHub is a place where I document my progress, experiment with ideas, and share projects that help me grow as a developer.
-
-Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.
 
 
 
