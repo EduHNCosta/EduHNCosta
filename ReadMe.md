@@ -1,12 +1,11 @@
- 🌊 Hi, I'm Eduardo!
+# 🌊 Hi, I'm Eduardo!
 
-
-Computer Science Student |
-Software Developer |
-Hardware Explorer |
-Retro Computing Enthusiast |
-Creative Technology Builder |
-
+```text
+Computer Science Student
+Software Developer
+Hardware Explorer
+Retro Computing Enthusiast
+Creative Technology Builder
 Welcome to my GitHub laboratory.
 
 I'm a Computer Science student passionate about building software, exploring technology, and understanding how computers work from the inside out.
